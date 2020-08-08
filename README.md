@@ -16,6 +16,19 @@ Small scale digital banking solution
                 - Deposit Amount
                 - Withdraw Amount
                 
++ ### Parent Class Person ;
+
+                - Tin Number
+                - fname, lname, age , dob,address,phone number , pin
+                
+                
+                METHOD
+                - view my account
+                - deposit amount
+                - withdraw amount
+                - Change pin
+                                
+                
 + Class Customer ;
 
                 - Tin Number
@@ -35,9 +48,11 @@ Small scale digital banking solution
                 - Initial deposit Aomunt
                 
                 METHOD
+                - View Account
                 - Create Account
                 - deposit amount
                 - withdraw amount
+                - change pin
                 - Insert Account number/Assign Account number
                 
                 
