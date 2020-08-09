@@ -9,9 +9,8 @@ Small scale digital banking solution
 
                 - Account Number
                 - Account Balance
-                - Date made
-                -amount deposit
-                -amount withdraw
+                
+                
                 
                 METHOD
                 - Insert Account Number
@@ -23,41 +22,40 @@ Small scale digital banking solution
 + ### Parent Class Person ;
 
                 - Tin Number
-                - fname, lname, age , dob,address,phone number , pin
+                - fname, lname, age , dob,address,phone number  
                 
                 
                 METHOD
                 - view my account
-                - deposit amount
+                - deposit amount(inherit from acc class)
                 - withdraw amount
-                - Change pin
+              
                                 
                 
 + Class Customer ;
 
                 - Tin Number
-                - fname, lname, age , dob,address,phone number , pin
+                - fname, lname, age , dob,address,phone number 
                 - Initial deposit Aomunt
                 
                 METHOD
                 - view my account
                 - deposit amount
                 - withdraw amount
-                - Change pin
+                
                 
  + Class Teller ;
 
                 - Tin Number
-                - fname, lname, age , dob,address,phone number , pin
+                - fname, lname, age , dob,address,phone number ,
                 - Initial deposit Aomunt
                 
                 METHOD
                 - View Account
-                - Create Account
                 - deposit amount
                 - withdraw amount
-                - change pin
-                - Insert Account number/Assign Account number
+                
+         
                 
                 
                 
@@ -68,7 +66,7 @@ Small scale digital banking solution
                 
                 METHOD
                 -Create teller
-                - view all accounts
+                - view all accounts(customers)
                 - view total amount available
                 - view total deposit
                 - view total withdrawn
