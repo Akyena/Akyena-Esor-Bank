@@ -28,7 +28,7 @@ Small scale digital banking solution
                 METHOD
                 - view my account
                 - deposit amount(inherit from acc class)
-                - withdraw amount
+                - withdraw amount(inherit from acc class)
               
                                 
                 
