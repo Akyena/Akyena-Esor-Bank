@@ -9,16 +9,13 @@ Small scale digital banking solution
 
                 - Account Number
                 - Account Balance
-                - Date made
-                -amount deposit
-                -amount withdraw
+                
                 
                 METHOD
-                - Insert Account Number
                 - Deposit Amount
                 - Withdraw Amount
-                -total deposit
-                -total withdrawn
+               -transfers
+               -balance check
                 
 + ### Parent Class Person ;
 
