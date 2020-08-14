@@ -16,8 +16,7 @@ Small scale digital banking solution
                 - Insert Account Number
                 - Deposit Amount
                 - Withdraw Amount
-                -total deposit
-                -total withdrawn
+                
                 
 + ### Parent Class Person ;
 
@@ -47,9 +46,10 @@ Small scale digital banking solution
                 - Initial deposit Aomunt
                 
                 METHOD
-                - View Account
+              
                 - deposit amount
                 - withdraw amount
+                - check balance
                 
          
                 
