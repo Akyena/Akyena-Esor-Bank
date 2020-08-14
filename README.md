@@ -25,11 +25,7 @@ Small scale digital banking solution
                 - fname, lname, age , dob,address,phone number  
                 
                 
-                METHOD
-                - view my account
-                - deposit amount(inherit from acc class)
-                - withdraw amount(inherit from acc class)
-              
+            
                                 
                 
 + Class Customer ;
